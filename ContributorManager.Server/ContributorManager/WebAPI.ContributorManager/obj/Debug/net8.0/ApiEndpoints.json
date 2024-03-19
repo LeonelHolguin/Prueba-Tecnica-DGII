@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebAPI.ContributorManager.Controllers.ContributorController",
+    "Method": "GetAllContributors",
+    "RelativePath": "api/Contributor/GetContributors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.ContributorManager.Controllers.TaxReceiptController",
+    "Method": "GetAllTaxReceipts",
+    "RelativePath": "api/TaxReceipt/GetTaxReceipts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
